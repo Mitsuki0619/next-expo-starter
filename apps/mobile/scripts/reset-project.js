@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+/** biome-ignore-all lint/style/useNodejsImportProtocol: <explanation> */
 
 /**
  * This script is used to reset the project to a blank state.
